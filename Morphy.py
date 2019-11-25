@@ -8,6 +8,8 @@ f.close()
 list1 = []
 first_part = first_part.split()
 for word in first_part:
+    if word in [',','!',';','?','.',' ',':', '&','--','...','-']:
+        first_part.remove(word)
     clean_word = word.strip("!.,?[]':;")
     clean_word = clean_word.replace('"', '').replace('?','').replace('!','').strip()
     list1.append(clean_word)
@@ -18,9 +20,7 @@ for word in list1:
     list_1.append(p.normal_form)
 
 
-
 d = dict(zip(list1, list_1))
 with open(r".\Lemmatized.txt", "w") as fw:
     for word in d:
         fw.write("{} \t {}\n".format(word, d[word]))
-
