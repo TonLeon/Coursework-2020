@@ -1,0 +1,16 @@
+Source	Target	Weight
+#eremeeva	#eremeeva	1.0
+#ivanov	#ivanov	1.0
+#kerenskij	#kerenskij	1.0
+#kerenskij	#landau	1.0
+#kerenskij	#tsetlin	1.0
+#kerenskij	#tsetlina	1.0
+#landau	#landau	1.0
+#landau	#tsetlin	1.0
+#landau	#tsetlina	1.0
+#tsetlin	#tsetlin	1.0
+#tsetlin	#tsetlina	1.0
+#tsetlina	#tsetlina	1.0
+#zajtsev	#zajtsev	1.0
+#zajtsev	#zajtseva	1.0
+#zajtseva	#zajtseva	1.0

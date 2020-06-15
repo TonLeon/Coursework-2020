@@ -1,0 +1,33 @@
+Id,Label,timeset,Name,gender,sphere,occupation,generation,journal,circle
+"#bal'mont","#bal'mont",,"#bal'mont",m,literature,poet,elder,Современные записки / Дни / Последние новости,
+"#kul'man","#kul'man",,"#kul'man",m,academic / literature,professor / publicist,elder,Возрождение / Современные записки / Россия и славянство / Русская мысль,
+"#kuprin","#kuprin",,"#kuprin",m,literature,writer / editor,elder,Возрождение / Иллюстрированная Россия,
+"#landau","#landau",,"#landau",m,literature,writer / critic / publicist,elder,Дни / Современные записки / Последние новости / Иллюстрированная Россия,Зеленая лампа
+"#osorgin","#osorgin",,"#osorgin",m,literature,writer / journalist,elder,Дни / Современные записки / Иллюстрированная Россия / Последние новости / Новые писатели,
+"#osorgina","#osorgina",,"#osorgina",f,relatives,wife,,,
+"#shestov","#shestov",,"#shestov",m,academic / literature,philosopher,,Версты / Числа,Зеленая лампа
+"#shmelev","#shmelev",,"#shmelev",m,literature,writer,elder,Возрождение / Современные записки / Иллюстрированная Россия / Встречи,
+"#zajtsev","#zajtsev",,"#zajtsev",m,literature,writer,elder,Современные записки / Возрождение / Иллюстрированная Россия / Числа,Зеленая лампа
+"#zajtseva","#zajtseva",,"#zajtseva",f,relatives,wife,,,
+"#fedotov","#fedotov",,"#fedotov",m,academic,professor,,,
+"#fondaminskij","#fondaminskij",,"#fondaminskij",m,literature / else,editor / revolutionary,elder,Современные записки / Новый град,Круг / Зеленая лампа / Православное дело
+"#gippius","#gippius",,"#gippius",f,literature,poet / writer,elder,Возрождение / Современные записки / Новый корабль / Литературный смотр / Иллюстрированная Россия / Встречи / Числа,Зеленая лампа / Воскресения
+"#kuznetsova","#kuznetsova",,"#kuznetsova",f,literature,poet / writer,younger,Современные записки / Последние новости,
+"#merezhkovskij","#merezhkovskij",,"#merezhkovskij",m,literature,writer / editor,elder,Современные записки / Возрождение / Новый корабль / Иллюстрированная Россия / Меч / Встречи / Числа,Зеленая лампа / Воскресения
+"#plevitskaja","#plevitskaja",,"#plevitskaja",f,art,singer,,,
+"#shpoljanskij","#shpoljanskij",,"#shpoljanskij",m,literature,writer  / editor,elder,Последние новости / Сатирикон,
+"#teffi","#teffi",,"#teffi",f,literature,writer,elder,Современные записки / Последние новости / Иллюстрированная Россия,Зеленая лампа
+"#tsetlin","#tsetlin",,"#tsetlin",m,literature,poet / editor / publisher / patron,elder,Современные записки / Последние новости,Зеленая лампа
+"#tsetlina","#tsetlina",,"#tsetlina",f,else,activist,,,
+"#hodasevich","#hodasevich",,"#hodasevich",m,literature,poet / critic,elder,Возрождение / Дни / Современные записки / Иллюстрированная Россия,Зеленая лампа
+"#kerenskij","#kerenskij",,"#kerenskij",m,literature / else,politician / publicist / editor,,Дни / Новая Россия / Современные записки / Иллюстрированная Россия,
+"#kirill_zajtsev","#kirill_zajtsev",,"#kirill_zajtsev",m,academic / literature,professor,,Россия и слаянство,
+"#klodia","#klodia",,"#klodia",f,else,tailor,,,
+"#krymov","#krymov",,"#krymov",m,literature,writer / entrpreneur / publisher,elder,,
+"#zurov","#zurov",,"#zurov",m,literature,writer,younger,Иллюстрированная Россия / Последние новости,Круг
+"#lolo","#lolo",,"#lolo",m,literature,poet,elder,Последние новости / Возрождение / Русская газета,
+"#lopatina","#lopatina",,"#lopatina",f,literature,writer,elder,Последние новости / Современные записки,
+"#maan","#maan",,"#maan",m,medicine,doctor,,,
+"#manuhina","#manuhina",,"#manuhina",f,literature,writer / journalist,elder,,
+"#roschin","#roschin",,"#roschin",m,literature,writer,younger,Возрождение / Современные записки / Иллюстрированная Россия,
+"#vyrubov","#vyrubov",,"#vyrubov",m,else,entreprenuer,,,

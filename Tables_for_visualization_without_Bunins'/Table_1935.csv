@@ -1,0 +1,11 @@
+Source	Target	Weight
+#kurdjumov	#kurdjumov	2.0
+#kuznetsova	#kuznetsova	5.0
+#kuznetsova	#marga_stepun	3.0
+#kuznetsova	#roschin	1.0
+#kuznetsova	#zurov	1.0
+#maan	#maan	1.0
+#marga_stepun	#marga_stepun	3.0
+#marga_stepun	#roschin	1.0
+#roschin	#roschin	1.0
+#zurov	#zurov	1.0

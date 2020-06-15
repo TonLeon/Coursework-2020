@@ -1,0 +1,9 @@
+Source	Target	Weight
+#bunins	#bunins	2.0
+#bunins	#olechka	1.0
+#bunins	#zajtsev	1.0
+#bunins	#zajtseva	1.0
+#olechka	#olechka	1.0
+#zajtsev	#zajtsev	1.0
+#zajtsev	#zajtseva	1.0
+#zajtseva	#zajtseva	1.0
